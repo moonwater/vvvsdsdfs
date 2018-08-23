@@ -5,3 +5,4 @@ Git tracks changes.
 go1
 after add go1
 A
+B
