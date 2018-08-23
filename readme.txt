@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 go1
 after add go1
+A
