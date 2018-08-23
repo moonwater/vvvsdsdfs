@@ -7,3 +7,4 @@ after add go1
 A
 B
 C
+D
