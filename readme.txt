@@ -11,3 +11,4 @@ D
 to Branch DEV
 Now merge dev to master
 issue-404 fixed
+add all from stage
